@@ -4,3 +4,5 @@ number3
 number4
 6
 7
+/8
+9/*
